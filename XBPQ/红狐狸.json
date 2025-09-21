@@ -1,0 +1,4 @@
+ {
+        "分类url": "https://honghuli.com/type/{cateId}-{catePg}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
