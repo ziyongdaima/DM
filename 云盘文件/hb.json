@@ -1,0 +1,31 @@
+{
+    "SiteUrl": "",
+    "Domains": [
+        "http://103.45.162.207:20720"
+    ],
+    "SiteWord": "hb",
+    "SiteName": "虎斑",
+    "Classes": [
+        {
+            "type_name": "电影",
+            "type_id": "1"
+        },
+        {
+            "type_name": "剧集",
+            "type_id": "2"
+        },
+        {
+            "type_name": "综艺",
+            "type_id": "3"
+        },
+        {
+            "type_name": "动漫",
+            "type_id": "4"
+        },
+
+        {
+            "type_name": "短剧",
+            "type_id": "6"
+        }
+    ]
+}
