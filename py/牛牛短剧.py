@@ -33,7 +33,7 @@ class Spider(Spider):
     global headerx
 
     def getName(self):
-        return "蓝莓短剧[短]"
+        return "牛牛短剧[短]"
 
     def init(self, extend):
         pass
@@ -200,7 +200,7 @@ class Spider(Spider):
                     
                     if bofang:
                         bofang = bofang[:-1]
-                        xianlu = '蓝莓短剧'
+                        xianlu = '播放'
             
             videos.append({
                 "vod_id": did,
