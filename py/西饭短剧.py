@@ -35,11 +35,8 @@ class Spider(Spider):
             "class": [
                 {"type_id": "%E9%83%BD%E5%B8%82", "type_name": "都市"},
                 {"type_id": "%E9%9D%92%E6%98%A5", "type_name": "青春"},
-                {"type_id": "%E7%8E%B0%E4%BB%A3", "type_name": "现代"},
-                {"type_id": "%E8%B1%AA%E9%97%A8", "type_name": "豪门"},
-                {"type_id": "%E9%80%86%E8%A2%AD", "type_name": "逆袭"},
-                {"type_id": "%E7%A9%BF%E8%B6%8A", "type_name": "穿越"},
-                {"type_id": "%E6%89%93%E8%84%B8%E8%99%90%E6%B8%A3", "type_name": "打脸"}
+                {"type_id": "%E7%8E%B0%E4%BB%A3", "type_name": "现代"}
+                
             ]
         }
 
