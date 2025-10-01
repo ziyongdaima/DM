@@ -145,26 +145,25 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
  
  
 
-
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-8.ctv
+广东珠江,http://r.jdshipin.com/sE5vO
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 无线娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
-香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt#https://mytv.cdn.loc.cc/o12.php?id=mzt
+香港翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
  
  
  
-
+ 
+ 
  
 锤锤动漫,http://zzy789.xyz/douyu1.php?id=9018297
 大锤轮番,http://zzy789.xyz/douyu1.php?id=9220456
-
-爱奇艺影院,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-
+搞笑段子,http://zzy789.xyz/douyu1.php?id=9419678#http://zzy789.xyz/douyu1.php?id=10646699
+电影轮播,http://zzy789.xyz/douyu1.php?id=9388931
+郑云短剧,http://zzy789.xyz/douyu1.php?id=2995636
+恶搞电影,http://zzy789.xyz/douyu1.php?id=2519745
+ 
+爱奇艺影院,http://php.jdshipin.com:8880/smt.php?id=Qiyi#http://php.jdshipin.com/smt.php?id=Qiyi
 
  
  
