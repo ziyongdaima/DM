@@ -1,34 +1,32 @@
 {
-    "SiteUrl": "",
-    "Domains": [
-        "http://feimaoai.site",
-        "http://www.labi88.sbs",
-        "https://feimao666.fun",
-        "http://feimao888.fun"
-    ],
-    "SiteWord": "labi",
-    "SiteName": "蜡笔",
-    "Classes": [
-        {
-            "type_name": "电影",
-            "type_id": "1"
-        },
-        {
-            "type_name": "剧集",
-            "type_id": "2"
-        },
-        {
-            "type_name": "动漫",
-            "type_id": "3"
-        },
-        {
-            "type_name": "综艺",
-            "type_id": "4"
-        },
-        {
-            "type_name": "短剧",
-            "type_id": "5"
-        }
-
-    ]
+  "SiteUrl": "http://www.labi88.sbs",
+  "Domains": [
+    "http://www.labi88.sbs",
+    "https://feimao666.fun",
+    "http://feimao888.fun"
+  ],
+  "SiteWord": "labi",
+  "SiteName": "蜡笔",
+  "Classes": [
+    {
+      "type_name": "电影",
+      "type_id": "1"
+    },
+    {
+      "type_name": "剧集",
+      "type_id": "2"
+    },
+    {
+      "type_name": "动漫",
+      "type_id": "3"
+    },
+    {
+      "type_name": "综艺",
+      "type_id": "4"
+    },
+    {
+      "type_name": "短剧",
+      "type_id": "5"
+    }
+  ]
 }
