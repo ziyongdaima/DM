@@ -192,7 +192,7 @@ class Spider(Spider):
                     "vod_pic": result_data.get('coverImageUrl', ''),
                     "vod_content": result_data.get('qualification', result_data.get('desc', '暂无简介')),
                     "vod_remarks": f"{result_data.get('total', '')}集",
-                    "vod_play_from": "西饭短剧",
+                    "vod_play_from": "在线播放",
                     "vod_play_url": "#".join(playUrls)
                 }
                 
