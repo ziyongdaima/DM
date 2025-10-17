@@ -36,7 +36,7 @@ class Spider(Spider):
                 {"type_id": "%E9%83%BD%E5%B8%82", "type_name": "都市"},
                 {"type_id": "%E9%9D%92%E6%98%A5", "type_name": "青春"},
                 {"type_id": "%E7%8E%B0%E4%BB%A3", "type_name": "现代"}
-                
+               
             ]
         }
 
@@ -192,7 +192,7 @@ class Spider(Spider):
                     "vod_pic": result_data.get('coverImageUrl', ''),
                     "vod_content": result_data.get('qualification', result_data.get('desc', '暂无简介')),
                     "vod_remarks": f"{result_data.get('total', '')}集",
-                    "vod_play_from": "在线播放",
+                    "vod_play_from": "西饭短剧",
                     "vod_play_url": "#".join(playUrls)
                 }
                 
