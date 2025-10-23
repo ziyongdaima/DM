@@ -3,7 +3,7 @@
 
 var rule = {
     title: '瓜子',
-    host: 'https://api.8utdtcq.com',
+    host: 'https://api.w32z7vtd.com',
     url: '/App/IndexList/indexList',
     //   homeUrl: 'http://124.222.116.5/homedata/home.json',
     searchUrl: '/App/Index/findMoreVod#**',
