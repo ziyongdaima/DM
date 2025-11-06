@@ -1,0 +1,183 @@
+﻿CCTV频道,#genre#
+CCTV-1 综合,https://migu.188766.xyz/?migutoken=afe03ce3275e678057fda9f82c11f5e9&id=CCTV1&type=yy
+CCTV-2 财经,https://migu.188766.xyz/?migutoken=774f82fbaa4fae150ae614c08ed44159&id=CCTV2&type=yy
+CCTV-3 综艺,https://migu.188766.xyz/?migutoken=1981ef1c8c175aba5d464650bf944c2c&id=CCTV3&type=yy
+CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=a89a58880ca8167e7301ddb0270b295f&id=CCTV4&type=yy
+CCTV-5 体育,https://migu.188766.xyz/?migutoken=cb08a081f0f08b655c5ee99909245482&id=CCTV5&type=yy
+CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=856ec9ea667dab2a1d0199369d496aa0&id=CCTV5p&type=yy
+CCTV-6 电影,https://migu.188766.xyz/?migutoken=ed637a90ce4496b52cc9084a6698ea83&id=CCTV6&type=yy
+CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=b11a36a16900cb5fa7c715ade9208186&id=CCTV7&type=yy
+CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=cb9a5bf14aeec062a2d3c0ede9059ddb&id=CCTV8&type=yy
+CCTV-9 纪录,https://migu.188766.xyz/?migutoken=045417f28a67e887ca3a10ada478bfb3&id=CCTV9&type=yy
+CCTV-10 科教,https://migu.188766.xyz/?migutoken=2cec70094b06c6472d5840824f5ab3f4&id=CCTV10&type=yy
+CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=630b24c3712ba9085e1a1c1b75ad7d6b&id=CCTV11&type=yy
+CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=1f647ed41d8dafb48565aab103827e66&id=CCTV12&type=yy
+CCTV-13 新闻,https://migu.188766.xyz/?migutoken=ceef732216383a513abcc6f10c61610b&id=CCTV13&type=yy
+CCTV-14 少儿,https://migu.188766.xyz/?migutoken=065e0f56af1a4e77b06c8194898c1349&id=CCTV14&type=yy
+#CCTV-15 音乐,https://migu.188766.xyz/?migutoken=1c9078a4cf557d46bb52a3726dad3c14&id=CCTV15&type=yy
+#CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2600061e7e5a8b543200ee83397fb3d2&id=CCTV17&type=yy
+CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=059fabe9c41d77cdf9f3fa59637144c1&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=8c0194e93af0f393ba6724a7508df8db&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+
+卫视频道,#genre#
+湖南卫视,https://migu.188766.xyz/?migutoken=981720c33c1eaef7597075af33348df7&id=hnws&type=sz
+浙江卫视,https://migu.188766.xyz/?migutoken=df96a51f48ef56f81d2f0083f2995edd&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,https://migu.188766.xyz/?migutoken=c54fa6c5f3b5aed552b517c3b77721ea&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+东方卫视,https://migu.188766.xyz/?migutoken=209f8a3f9cb895fece99dd80d5837752&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,https://migu.188766.xyz/?migutoken=af2a63f284a5f69dc8e7e24b1ace3ff7&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+海南卫视,https://migu.188766.xyz/?migutoken=26dd3da51a9f5e1eb506a5e734c7b0fc&id=hn_hnws&type=sz
+湖北卫视,https://migu.188766.xyz/?migutoken=db9deb8236c95410ef13c64da85634b9&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+江西卫视,https://migu.188766.xyz/?migutoken=535bd48f069f4fb40a1c62b021d14ed8&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+辽宁卫视,https://migu.188766.xyz/?migutoken=45573cd7109f880723b608c2c9188089&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+陕西卫视,https://migu.188766.xyz/?migutoken=f4144d0a5ed107d2494e1134df13a75c&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+三沙卫视,https://migu.188766.xyz/?migutoken=e5dbb7429a1a836ba0b06727033e7f69&id=hn_ssws&type=sz
+河南卫视,https://migu.188766.xyz/?migutoken=90461329c8a4771d96b4e8f1b0a92c01&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+吉林卫视,https://migu.188766.xyz/?migutoken=e23cb84020c3afa0eeec16f757bc2dbc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+青海卫视,https://migu.188766.xyz/?migutoken=11a595107cbbff7a86921fb1f622b9f2&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+海南卫视,https://migu.188766.xyz/?migutoken=2892384cdc5e787906fac01119c7db0a&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+农林卫视,https://migu.188766.xyz/?migutoken=153100780f89212a98ac9b6f7ea73909&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+内蒙古卫视,https://migu.188766.xyz/?migutoken=478be778a382a2c07163e65e9e892913&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+兵团卫视,https://migu.188766.xyz/?migutoken=9f9aa67efbb708812d637ce9e0f9537e&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+大湾区卫视,https://migu.188766.xyz/?migutoken=8452d64b0154c37294d4349688936027&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
+
+超清频道,#genre#
+湖南卫视4K,https://migu.188766.xyz/?migutoken=8530fd0ee5076db0d8461a468871dccb&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4K,https://migu.188766.xyz/?migutoken=94f74c5b387f3b4dd9ac611369baf5e3&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+北京卫视4K,https://migu.188766.xyz/?migutoken=367a91de359f0085bf544ac34665acbc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+深圳卫视4K,https://migu.188766.xyz/?migutoken=da649d77ada7167a2c4b44d128ebbf4d&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
+
+数字频道,#genre#
+CHC家庭影院,https://migu.188766.xyz/?migutoken=6dcb8b9f3a0a88ed5f4c4866a89476a3&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=b3cc3348c160ae777a1e7603fe599990&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC影迷电影,https://migu.188766.xyz/?migutoken=01c05caaa9466135b69394902c1b484b&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+五星体育,https://migu.188766.xyz/?migutoken=26d0baeff8ec69950590b45590863171&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+新片放映厅,https://migu.188766.xyz/?migutoken=f569b35a027c174b12645112608f1ca8&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+高清大片,https://migu.188766.xyz/?migutoken=522febdd0b1254693ff9d80668965ae3&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
+经典香港电影,https://migu.188766.xyz/?migutoken=6cd05f9505a581d9bc6f1917a8d6cdda&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
+抗战经典影片,https://migu.188766.xyz/?migutoken=ab69979310f0032a0d480dc73912ed1d&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+赛事最经典,https://migu.188766.xyz/?migutoken=5a5bd2ee05cfc3e7a24281c635d070c0&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
+武术世界,https://migu.188766.xyz/?migutoken=c89df5783fa09f90e1f11ee874f72283&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+四海钓鱼,https://migu.188766.xyz/?migutoken=736745098e198497aba6a46101e771ef&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+环球旅游,https://migu.188766.xyz/?migutoken=36ad11f6fc4a3cd84523b7a6e8896a4b&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+最强综艺趴,https://migu.188766.xyz/?migutoken=af49a0c74d3e6fcb81708a1d012c6aa8&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
+嘉佳卡通,https://migu.188766.xyz/?migutoken=384a5b3e7cc331daebab2ca55565968e&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
+经典动画大集合,https://migu.188766.xyz/?migutoken=036dd6a1def39833e40606f770049af6&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
+优漫卡通,https://migu.188766.xyz/?migutoken=1000472c69877d6931076e397aef6d4f&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
+财富天下,https://migu.188766.xyz/?migutoken=bf1fb06b6733c676b796577e215c886f&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+体坛名栏汇,https://migu.188766.xyz/?migutoken=b6d559e81c0b630827a9e2dddfb226b7&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+24小时全运会轮播台,https://migu.188766.xyz/?migutoken=faba92d332d4231a16a914d4985fb70a&id=24%E5%B0%8F%E6%97%B6%E5%85%A8%E8%BF%90%E4%BC%9A%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+24小时城市联赛轮播台,https://migu.188766.xyz/?migutoken=43d9d80da499515db74549ed5cf041dd&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+山东教育,https://migu.188766.xyz/?migutoken=b377c091ce8a0d9e15cc85363e5fd826&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
+中学生,https://migu.188766.xyz/?migutoken=309a1fec082e8cb06e7e7e83f33aa773&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
+老故事,https://migu.188766.xyz/?migutoken=5bd3973d25f2c17c1586ec110737d69c&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
+CETV-1,https://migu.188766.xyz/?migutoken=85c52c04c298ab4f403eebdb3699f185&id=CETV1&type=yy
+CETV-2,https://migu.188766.xyz/?migutoken=0a6692ae062aa40c893284bb17dbb602&id=CETV2&type=yy
+CETV-4,https://migu.188766.xyz/?migutoken=1b547a18127bc7dd6934c77441d40051&id=CETV4&type=yy
+新动力量创一流,https://migu.188766.xyz/?migutoken=48fb4632164090ac9b6ba3482ef08e53&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
+钱塘江,https://migu.188766.xyz/?migutoken=397b8e139b714f68372da9d8524345e8&id=%E9%92%B1%E5%A1%98%E6%B1%9F&type=yy
+
+
+地方频道,#genre#
+卡酷少儿,https://migu.188766.xyz/?migutoken=a86f00fd82363ebafb26ede562b6d922&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+北京影视,https://migu.188766.xyz/?migutoken=cf14f56333cee7f327b265704170ab9f&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+北京文艺,https://migu.188766.xyz/?migutoken=0bd5bf680518c9a80dcf2b50a69dc8cd&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=5f791d3c1074f0cb3a51cf70dbe29c77&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京生活,https://migu.188766.xyz/?migutoken=5e5c979139e77450b03c7e40989d0659&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+北京新闻,https://migu.188766.xyz/?migutoken=8ee4eb069d75c0660ac122bc92b0de26&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+北京纪实科教,https://migu.188766.xyz/?migutoken=6cc560569e6863ea9645c01c590421fd&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+河南梨园,https://migu.188766.xyz/?migutoken=2badc1bcde4e562c84210a717a089583&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
+河南新闻,https://migu.188766.xyz/?migutoken=431697cc6889f679833da5ef3a8a38c4&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+河南都市,https://migu.188766.xyz/?migutoken=772c9657c213cd127e9e9c0d9a8cc7cf&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+河南民生,https://migu.188766.xyz/?migutoken=e9eb50052559ad5971e451cd67ae9744&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+河南电视剧,https://migu.188766.xyz/?migutoken=46959562390ba583122fc5406dd8a416&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+河南公共,https://migu.188766.xyz/?migutoken=5eff5f9f7aabcd7ceb4c94980a7a7cff&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+河南法治,https://migu.188766.xyz/?migutoken=5b9da2363952230f8eb7b9455bbd550f&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+河南武术,https://migu.188766.xyz/?migutoken=35eb1e24bb48aaec56bbd321b06e533d&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+河南移动戏曲,https://migu.188766.xyz/?migutoken=9f7fcca6a9ae808226a9c09ed65e6d20&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+河南文物宝库,https://migu.188766.xyz/?migutoken=0c0ed8d77627f9ded979dabe677abf6f&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+河南象视界,https://migu.188766.xyz/?migutoken=52a225edc290a08c331cf53cf9964672&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+广东新闻,https://mgev.188766.xyz/?migutoken=89c3e453070d149eb57d41dc7761534f&id=gd_gdxw&type=sz
+广东珠江,https://mgev.188766.xyz/?migutoken=a7bbd12ceedfd52abe635db55f488d13&id=gd_gdzj&type=sz
+广东民生,https://mgev.188766.xyz/?migutoken=63f4e706b4b119dcc4b290c085c4f28d&id=gd_gdms&type=sz
+广东体育,https://mgev.188766.xyz/?migutoken=38f5dd71e8cfd78d819c05fc52e5e6d8&id=gd_gdty&type=sz
+广东影视,https://mgev.188766.xyz/?migutoken=1bf7def12f227e3e41c9361c371b7b42&id=gd_gdys&type=sz
+广东少儿,https://mgev.188766.xyz/?migutoken=7380e1ff1d1ab825ca80fc363f9e7911&id=gd_gdse&type=sz
+嘉佳卡通,https://mgev.188766.xyz/?migutoken=c802218ef6d0ca5b6cea0915a71d3c62&id=gd_jjkt&type=sz
+岭南戏曲,https://mgev.188766.xyz/?migutoken=00687bbe91b0a83bb374ca9f678edc02&id=gd_lnxq&type=sz
+广东移动,https://mgev.188766.xyz/?migutoken=30166231355e5d7a421d98ab8f8b6d04&id=gd_gdyd&type=sz
+现代教育,https://mgev.188766.xyz/?migutoken=318740d278f036ed6e8723aac9e59267&id=gd_xdjy&type=sz
+广东生活频道,https://mgev.188766.xyz/?migutoken=4aafdc4148858c694060b25c376e6efa&id=gd_gdsh&type=sz
+上海新闻综合,https://migu.188766.xyz/?migutoken=a24a7f080c30b35a01a1aa3774cc6128&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+海南新闻,https://migu.188766.xyz/?migutoken=acb8228b02b6357f4eaa407b3c916613&id=hn_xwpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=e87e23dd59cf43d18240c8f5a9a37b5a&id=hn_wlpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=95b0d51eeeb1ac02e1892bb0e429421c&id=hn_jjpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=a76afeed8831109f15787b907840bb78&id=hn_ggpd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=d001f5f5ff1b8b07ee43cba9afd93e31&id=hn_sepd&type=sz
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙古农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+江苏新闻,https://migu.188766.xyz/?migutoken=4c8d44c45d4cba4cad1acb07153e46ea&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+江苏国际,https://migu.188766.xyz/?migutoken=2df04de060642b04a29f2eca6675eacc&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&type=yy
+江苏综艺,https://migu.188766.xyz/?migutoken=6ebd5e944edb031083b1ac570dbf902f&id=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&type=yy
+江苏影视,https://migu.188766.xyz/?migutoken=1ac58492d9c8f1b259350f144cbdde46&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
+江苏教育,https://migu.188766.xyz/?migutoken=b02b1fdd559fb0b66390f57195623a18&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
+江苏体育,https://migu.188766.xyz/?migutoken=4dd7620939ef00b5b6a5fdb16cdd91d5&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+南京新闻综合,https://migu.188766.xyz/?migutoken=4ff8d407dadeaa1f66d0c47a97191939&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
+南京教科,https://migu.188766.xyz/?migutoken=a6883f8a1ea5cd2a7868aa888d093f75&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
+南京十八,https://migu.188766.xyz/?migutoken=d20c86b1b7bcef398b4e8dcde8b4e229&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
+盐城新闻综合,https://migu.188766.xyz/?migutoken=de882b68917c832962c92fe0685bf6bd&id=%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+淮安新闻综合,https://migu.188766.xyz/?migutoken=c50e33435d43d5fa5e266453aa6230fb&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+泰州新闻综合,https://migu.188766.xyz/?migutoken=86b963d12fb50eb89da946fc68f2869a&id=%E6%B3%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+连云港新闻综合,https://migu.188766.xyz/?migutoken=716e2b40e3524a0eded2b95655b57f91&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+宿迁新闻综合,https://migu.188766.xyz/?migutoken=095da2af034d31dcb64beead92806d54&id=%E5%AE%BF%E8%BF%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+徐州新闻综合,https://migu.188766.xyz/?migutoken=e8907917ae039c52a53c69cdc5bf45db&id=%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+江阴新闻综合,https://migu.188766.xyz/?migutoken=1a6a636257ef1fe903e7cb15b4aa4efd&id=%E6%B1%9F%E9%98%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+南通新闻综合,https://migu.188766.xyz/?migutoken=3f29f213c39df8e4e7c4ae826f3db9ae&id=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+宜兴新闻综合,https://migu.188766.xyz/?migutoken=9c6c11a55eb3bb84bbc66613e3e16536&id=%E5%AE%9C%E5%85%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+溧水新闻综合,https://migu.188766.xyz/?migutoken=f2f8e694e5738b9b28e99d54913219ca&id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+陕西银龄频道,https://migu.188766.xyz/?migutoken=1d24a032b924c0ebe1367b4152c09bc5&id=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&type=yy
+陕西都市青春频道,https://migu.188766.xyz/?migutoken=07b9dbf6ef1072ce1f1eb08bec1338eb&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&type=yy
+陕西秦腔频道,https://migu.188766.xyz/?migutoken=28045204b8d5002846a2503a906cfa57&id=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&type=yy
+陕西新闻资讯频道,https://migu.188766.xyz/?migutoken=43269f7f872029218455b6133f5f2ba3&id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&type=yy
+
+
+
+粤语频道,#genre#
+凤凰中文,https://mgev.188766.xyz/?migutoken=0fabb9606d68ff6d521628c0dbdefab5&id=fhzw&pp=1
+凤凰中文,https://migu.188766.xyz/?migutoken=d91187650bfb9fafb8f096ff8e430d7f&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=df63d42f38c3f51190ea5bdf3fcf751b&id=fhzx&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=8a19ba92066924e3da4f15c577dbed73&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=08c7cdbb589f572f6769a08f8f409913&id=fhhk&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=f48ca982f8f790a0c902afdf6b0e1a85&id=hk_fhhk&type=dy
+翡翠台,https://migu.188766.xyz/?migutoken=a8fb7138271999990f4feec81eba3289&id=hk_fct&type=dy
+翡翠台4K,https://migu.188766.xyz/?migutoken=ba477e8e9ba4d88f324e6794d1a97df3&id=hk_fct4k&type=dy
+无线新闻,https://migu.188766.xyz/?migutoken=446053d9877bedd7fae58e3c4670acfb&id=hk_wxxw&type=dy
+Now新闻台,https://migu.188766.xyz/?migutoken=3646a1eb97864aafaa51e3b39c1caf92&id=hk_now&type=dy
+TVB Plus,https://migu.188766.xyz/?migutoken=4de0eaad9d9a1d8be4fe64452714f80a&id=hk_tvbp&type=dy
+明珠台,https://migu.188766.xyz/?migutoken=c53be743d963907777610419a5d39573&id=hk_mzt&type=dy
+TVB星河,https://migu.188766.xyz/?migutoken=3ec1b0b38b71af69e997999333adda8d&id=hk_tvbxh&type=dy
+TVB功夫,https://migu.188766.xyz/?migutoken=24c7359c0f1f300e84a0ac4591c54f3b&id=hk_yzwx&type=dy
+八度空间,https://migu.188766.xyz/?migutoken=cd116478c3e022fbf1bd4c206c9002c7&id=hk_8tv&type=dy
+CHU,https://migu.188766.xyz/?migutoken=5e3571d0285b210dfb6c364e1cd33eeb&id=hk_chu&type=dy
+CH5,https://migu.188766.xyz/?migutoken=bc13bc9be26d93ec470057f3c5347c15&id=hk_ch5&type=dy
+CH8,https://migu.188766.xyz/?migutoken=33efad3977f892eda020befcb59afc21&id=hk_ch8&type=dy
+澳视澳门,https://migu.188766.xyz/?migutoken=8c0e26b539d7a06bbde28f80c480b472&id=hk_asam&type=dy
+HOY77,https://migu.188766.xyz/?migutoken=245f1ee053fe2efb3e3c253c794cd199&id=hk_hoy&type=dy
