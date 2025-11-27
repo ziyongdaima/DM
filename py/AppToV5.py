@@ -3,11 +3,11 @@
 # 严禁将其用于任何商业用途，下载后请于 24 小时内删除，搜索结果均来自源站，本人不承担任何责任。
 """
 {
-    "key": "xxx",
-    "name": "xxx",
+    "key": "巧计",
+    "name": "据搜",
     "type": 3,
     "api": "./ApptoV5无加密.py",
-    "ext": "http://domain.com"
+    "ext": "http://101.35.85.16:5555"
 }
 """
 
@@ -184,4 +184,5 @@ class Spider(Spider):
         pass
 
     def localProxy(self, param):
+
         pass
