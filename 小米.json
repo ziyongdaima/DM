@@ -155,6 +155,18 @@
         "ratio": 1.333
       }
     },
+
+ {
+      "key": "若曦",
+      "name": "💣若曦┃小米",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
+    },
+    
     {
       "key": "爱看fox",
       "name": "👀爱看┃影视",
@@ -226,6 +238,15 @@
       "api": "https://13826.kstore.vip/AppToV5.py",
       "ext": "http://101.35.85.16:5555"
     },
+
+ {
+      "key": "追番达人",
+      "name": "🐂达人┃影视",
+      "type": 3,
+      "api": "csp_Appfox",
+      "ext": "https://fox.ystva.com"
+    },
+    
     {
       "key": "剧下饭",
       "name": "🍚下饭┃小米",
