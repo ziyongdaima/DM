@@ -2,7 +2,7 @@ var rule={
     title:'厂长资源',
     // host:'https://czspp.com', 
     // host:'https://czz9.com', 
-    host:'http://www.czys.pro/',
+    host:'https://www.czzymovie.com/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"h3&&a&&href")',
     url:'/fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
