@@ -1,0 +1,8 @@
+{
+    "goproxy_amd64.md5": "f384858a0f78ee216c6536bf437f9f1e",
+    "goproxy_arm.md5": "245279fb92a322eeb415af978372246b",
+    "goproxy_arm64.md5": "e617668ff41408d0a3f6887081bf9465",
+    "goproxy_amd64": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4c06988b53487057/goproxy_amd64.png",
+    "goproxy_arm": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/daa9ff1ea8a2231c/goproxy_arm.png",
+    "goproxy_arm64": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/694c3730efaca22f/goproxy_arm64.png"
+}
