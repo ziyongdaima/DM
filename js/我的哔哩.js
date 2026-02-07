@@ -51,7 +51,7 @@ var rule = {
     headers: {
         "User-Agent": "PC_UA",
         "Referer": "https://www.bilibili.com",
-        "Cookie": "SESSDATA=01c79709%2C1711618905%2C244c3%2A91CjA9UUnRb_kJg03J5FqUbin76yMY90o1-ckJsM1ItQH21ns4hgcS6Le6oMR3SKtC18QSVmxSbGRhN3cyS3NReERsOHRfYVlhTWJKZjZyTF9wUWJXbjNfaF9qWklFMFpoeVg1ZUhFb0Q0MGFiN3FYd1N3UEFEY1oxX29IdmFSRVVLamcybGhhSkJnIIEC; bili_jct=e9d6e9df733afde2a03693d63a4e77dc; DedeUserID=186957646;"
+        "Cookie": ""
     },
     timeout: 5000,
     limit: 8,
