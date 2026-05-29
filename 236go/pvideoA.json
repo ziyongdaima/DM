@@ -1,0 +1,10 @@
+{
+  "pvideo-x86_64": "https://oss-v1.wangmeipo.cn/236/pvideo-x86_64",
+  "pvideo-x86": "https://oss-v1.wangmeipo.cn/236/pvideo-x86",
+  "pvideo-armeabi-v7a": "https://oss-v1.wangmeipo.cn/236/pvideo-armeabi-v7a",
+  "pvideo-arm64-v8a": "https://oss-v1.wangmeipo.cn/236/pvideo-arm64-v8a",
+  "pvideo-x86_64.md5": "47a38dcac69f195d2127f471defd0667",
+  "pvideo-x86.md5": "7aabc1037c399527c871034bf6bfe7ab",
+  "pvideo-armeabi-v7a.md5": "f9da762976ce08b35fcdb9bdfffa1fe2",
+  "pvideo-arm64-v8a.md5": "8a21ed4a34f7ea0ea6c498bfab858354"
+}
