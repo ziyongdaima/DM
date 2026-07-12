@@ -1,14 +1,10 @@
 {
     "SiteUrl": "",
     "Domains": [
-        "https://pan.mihdr.top",
-          "https://zhizhen1.top",
           "https://mihdr.top",
           "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://zhizhenpan.com",
-          "https://zhizhen8.click",
-          "https://www.zhizhen8.click"
+          "https://www.miqk.cc"
+         
     ],
  
     "SiteWord": "zz",
@@ -34,13 +30,10 @@
         },
         {
             "type_name": "短剧",
-            "type_id": "5"
+            "type_id": "27"
         },
         
-                {
-            "type_name": "老剧",
-            "type_id": "24"
-        }
+          
     ],
     "Filters": {
         "1": [
