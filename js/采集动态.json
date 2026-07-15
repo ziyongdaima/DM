@@ -1,6 +1,21 @@
 [
 
-
+ {
+    "name": "黑慕儿资源",
+    "url": "https://hmr.ccwu.cc",
+   "api":"/api.php/hmrapi/vod/from/hmrm3u8/at/xml",
+    "parse_url": "https://api.hmr.ccwu.cc/json.php?url=",
+    "searchable": 1,
+    "cate_exclude": "电影|电视剧|综艺|动漫",
+    "class_name": "动作片&喜剧片&恐怖片&科幻片&国产剧&港台剧&大陆综艺&国产动漫",
+    "class_url": "101&102&108&104&201&202&301&401",
+    "cate_excludes": [
+      "电影",
+      "连续",
+      "综艺",
+      "动漫" 
+    ]
+  },
 
  
 
