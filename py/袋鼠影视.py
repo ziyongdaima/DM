@@ -141,7 +141,7 @@ class Spider(Spider):
 
     def get(self, url):
         try:
-            r = requests.get(url, headers=self.headers, timeout=15, verify=False)
+            r = requests.get(url, headers=self.headers, timeout=15)
             r.encoding = r.apparent_encoding or "utf-8"
             return r.text
         except Exception:
